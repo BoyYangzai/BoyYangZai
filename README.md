@@ -3,6 +3,8 @@ A Front-end infrastructure and engineering efficiency developer. Open Source Ent
 
 Hello，我是洋，一名热爱技术和开源的25届准前端工程师，就读于中国矿业大学(本科)
 
+[前端业务团队开发规范 by 洋](https://github.com/BoyYangzai/fe-team-work)
+
 - 前端实习经历：
      - 2022.6-2022.10月在 百度 实习 - Focus on 广告监测
      - 2022.10-2023.2月在 蚂蚁体验技术部 AntV 团队实习 - Focus on Antv Dumi Umi amis
