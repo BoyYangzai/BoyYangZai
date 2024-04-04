@@ -6,11 +6,13 @@ Hello，我是洋，一名热爱技术和开源的25届准前端工程师，就�
 [前端业务团队开发规范 by 洋](https://github.com/BoyYangzai/fe-team-work)
 
 - 工作经历：
-     - 2022.6-2022.10月在 百度 实习 - Focus on 广告监测
-     - 2022.10-2023.2月在 蚂蚁体验技术部 AntV 团队实习 - Focus on Antv Dumi Umi amis
-     - 2023.3-2023.7月在 字节跳动 实习 - Focus on TikTok 剪映 商业化<br>
-     - 2023.7-2023.10月在 腾讯 实习 - Focus on 混沌工程 apaas sass<br>
-     - 2023.10-至今 在 [Hydrox Ai](https://www.hydrox.ai/about) - Lead Team of tech & pro
+  - 实习工作：
+     - 百度 - 业务监察部 - Focus on 广告监测
+     - 蚂蚁体验技术部 - AntV - Focus on Antv Dumi Umi amis
+     - 字节跳动 - 商业化技术 - Focus on TikTok 剪映 商业化<br>
+     - 腾讯 - 腾讯云混沌工程 - Focus on apaas sass<br>
+  - 全职工作：
+     - [Hydrox Ai](https://www.hydrox.ai/about) - remote - Lead Team of tech & pro
 - 学习前端的时间：2021.11.11 -- 至今<br>
   - 这是我的个人语雀博客：[点击进入](https://www.yuque.com/boyyang) <br>
   - 这是我的牛客：[点击进入](https://www.nowcoder.com/users/278046557)<br>
