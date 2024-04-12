@@ -1,8 +1,6 @@
 Hi！  i am yang<br>
 A Front-end infrastructure and engineering efficiency developer. Open Source Enthusiast😊 
 
-Hello，我是洋，一名热爱技术和开源的25届准前端工程师，就读于中国矿业大学(本科)
-
 [前端业务团队开发规范 by 洋](https://github.com/BoyYangzai/fe-team-work)
 
 - 工作经历：
