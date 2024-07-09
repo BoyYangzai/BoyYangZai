@@ -10,7 +10,7 @@ A Front-end infrastructure and engineering efficiency developer. Open Source Ent
      - 字节跳动 - 商业化技术 - Focus on TikTok 剪映 商业化<br>
      - 腾讯 - 腾讯云混沌工程 - Focus on apaas sass<br>
   - 全职工作：
-     - [Hydrox AI](https://www.hydrox.ai/about) - remote - Lead Team of tech & pro
+     - [Hydrox AI](https://www.linkedin.com/company/hydrox-ai/) - remote - Lead Team of tech & pro
        
 - 学习前端的时间：2021.11.11 -- 至今
   - 这是我的个人语雀博客：[点击进入](https://www.yuque.com/boyyang) <br>
