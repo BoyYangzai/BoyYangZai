@@ -1,4 +1,4 @@
-Hi！  i am yang<br>
+Hi! i am yang<br>
 A Front-end infrastructure and engineering efficiency developer. Open Source Enthusiast😊 
 
 [业务团队编码规范](https://github.com/BoyYangzai/fe-team-work)
